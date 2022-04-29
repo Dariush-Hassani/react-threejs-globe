@@ -117,7 +117,7 @@ const Globe = () => {
         <div id="loading">Texture Loading ...</div>
       ) : (
         <>
-          <div id="drag">Drag on cube to rotate it</div>
+          <div id="drag">Drag on globe to rotate it</div>
           <div id="git">github.com/dariush-hassani</div>
         </>
       )}
