@@ -4,13 +4,13 @@ body {
 #git{
   position: absolute;
   color: white;
-  bottom: 10px;
+  top: 35px;
   left: 10px;
 }
 #drag{
   position: absolute;
   color: white;
-  bottom: 30px;
+  top: 10px;
   left: 10px;
 }
 #loading{
